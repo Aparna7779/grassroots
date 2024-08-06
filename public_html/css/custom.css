@@ -1,0 +1,14 @@
+/* your styles go here */
+.page{
+    font-size:15px;
+    background-color: #BBBBBB;
+}
+#login{
+    font-size: 20px;
+}
+.loc{
+color: #777;
+}
+#register-loc{
+    color: #16181b;
+}
